@@ -41,13 +41,6 @@ namespace name
                 }
             }
 
-
-
-
-
-
-
-
             Console.ReadLine();
                 }
            }
